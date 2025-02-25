@@ -16,14 +16,14 @@ A simple and efficient calculator application that performs basic arithmetic ope
 
 1. Clone the repository:
    ```sh
-   (git clone https://github.com/parasraju/calculator.git)
+   git clone https://github.com/parasraju/calculator.git
    ```
 2. Navigate to the project directory: 
  ```sh
-   (cd calculator )
+   cd calculator 
    ``` 
  ```sh
-   (python calculator.py)
+   python calculator.py
    ```
 ## 🛠️ Technologies Used  
 
